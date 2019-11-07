@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetition", "CombinationsWithoutRepetition\CombinationsWithoutRepetition.csproj", "{F561806B-3CF6-472F-9C81-5688D45D38DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F561806B-3CF6-472F-9C81-5688D45D38DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F561806B-3CF6-472F-9C81-5688D45D38DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F561806B-3CF6-472F-9C81-5688D45D38DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F561806B-3CF6-472F-9C81-5688D45D38DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797D7322-B499-4F50-9B37-3CF20DCEA26B}
+	EndGlobalSection
+EndGlobal

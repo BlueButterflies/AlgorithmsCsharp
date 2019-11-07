@@ -1,0 +1,10 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\bin\Debug\netcoreapp2.2\CombinationsWithRepetition.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\bin\Debug\netcoreapp2.2\CombinationsWithRepetition.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\bin\Debug\netcoreapp2.2\CombinationsWithRepetition.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\bin\Debug\netcoreapp2.2\CombinationsWithRepetition.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\bin\Debug\netcoreapp2.2\CombinationsWithRepetition.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\obj\Debug\netcoreapp2.2\CombinationsWithRepetition.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\obj\Debug\netcoreapp2.2\CombinationsWithRepetition.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\obj\Debug\netcoreapp2.2\CombinationsWithRepetition.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\obj\Debug\netcoreapp2.2\CombinationsWithRepetition.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\CombinationsWithRepetition\CombinationsWithRepetition\obj\Debug\netcoreapp2.2\CombinationsWithRepetition.pdb

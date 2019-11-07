@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestLecturesSchedule", "BestLecturesSchedule\BestLecturesSchedule.csproj", "{A61D2057-EA89-4AD3-BEB7-6F1C5EE32F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61D2057-EA89-4AD3-BEB7-6F1C5EE32F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61D2057-EA89-4AD3-BEB7-6F1C5EE32F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61D2057-EA89-4AD3-BEB7-6F1C5EE32F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61D2057-EA89-4AD3-BEB7-6F1C5EE32F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC22FDB6-3EEE-4A26-8331-0BD5778AFB93}
+	EndGlobalSection
+EndGlobal

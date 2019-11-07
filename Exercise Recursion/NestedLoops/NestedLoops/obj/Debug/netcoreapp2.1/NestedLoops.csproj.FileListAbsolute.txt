@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\bin\Debug\netcoreapp2.1\NestedLoops.deps.json
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\bin\Debug\netcoreapp2.1\NestedLoops.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\bin\Debug\netcoreapp2.1\NestedLoops.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\bin\Debug\netcoreapp2.1\NestedLoops.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\bin\Debug\netcoreapp2.1\NestedLoops.pdb
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\obj\Debug\netcoreapp2.1\NestedLoops.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\obj\Debug\netcoreapp2.1\NestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\obj\Debug\netcoreapp2.1\NestedLoops.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\obj\Debug\netcoreapp2.1\NestedLoops.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\obj\Debug\netcoreapp2.1\NestedLoops.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\NestedLoops\NestedLoops\obj\Debug\netcoreapp2.1\NestedLoops.pdb

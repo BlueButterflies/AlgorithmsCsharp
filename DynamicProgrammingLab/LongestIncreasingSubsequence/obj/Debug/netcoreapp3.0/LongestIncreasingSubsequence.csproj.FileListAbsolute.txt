@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.exe
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.pdb

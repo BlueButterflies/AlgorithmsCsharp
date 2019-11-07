@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\bin\Debug\netcoreapp2.2\FractionalKnapsackProblem.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\bin\Debug\netcoreapp2.2\FractionalKnapsackProblem.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\bin\Debug\netcoreapp2.2\FractionalKnapsackProblem.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\bin\Debug\netcoreapp2.2\FractionalKnapsackProblem.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\bin\Debug\netcoreapp2.2\FractionalKnapsackProblem.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\obj\Debug\netcoreapp2.2\FractionalKnapsackProblem.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\obj\Debug\netcoreapp2.2\FractionalKnapsackProblem.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\obj\Debug\netcoreapp2.2\FractionalKnapsackProblem.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\obj\Debug\netcoreapp2.2\FractionalKnapsackProblem.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\obj\Debug\netcoreapp2.2\FractionalKnapsackProblem.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\FractionalKnapsackProblem\FractionalKnapsackProblem\obj\Debug\netcoreapp2.2\FractionalKnapsackProblem.pdb

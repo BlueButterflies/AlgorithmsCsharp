@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp2.1\TowersOfHanoi.deps.json
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp2.1\TowersOfHanoi.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp2.1\TowersOfHanoi.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp2.1\TowersOfHanoi.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp2.1\TowersOfHanoi.pdb
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp2.1\TowersOfHanoi.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp2.1\TowersOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp2.1\TowersOfHanoi.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp2.1\TowersOfHanoi.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp2.1\TowersOfHanoi.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp2.1\TowersOfHanoi.pdb

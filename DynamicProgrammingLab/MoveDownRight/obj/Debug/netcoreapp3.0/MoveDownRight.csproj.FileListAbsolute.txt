@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\bin\Debug\netcoreapp3.0\MoveDownRight.exe
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\bin\Debug\netcoreapp3.0\MoveDownRight.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\bin\Debug\netcoreapp3.0\MoveDownRight.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\bin\Debug\netcoreapp3.0\MoveDownRight.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\bin\Debug\netcoreapp3.0\MoveDownRight.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\bin\Debug\netcoreapp3.0\MoveDownRight.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\obj\Debug\netcoreapp3.0\MoveDownRight.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\obj\Debug\netcoreapp3.0\MoveDownRight.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\obj\Debug\netcoreapp3.0\MoveDownRight.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\obj\Debug\netcoreapp3.0\MoveDownRight.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\MoveDownRight\obj\Debug\netcoreapp3.0\MoveDownRight.pdb

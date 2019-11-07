@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\bin\Debug\netcoreapp3.0\ZigZagMatrix.exe
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\bin\Debug\netcoreapp3.0\ZigZagMatrix.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\bin\Debug\netcoreapp3.0\ZigZagMatrix.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\bin\Debug\netcoreapp3.0\ZigZagMatrix.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\bin\Debug\netcoreapp3.0\ZigZagMatrix.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\bin\Debug\netcoreapp3.0\ZigZagMatrix.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\obj\Debug\netcoreapp3.0\ZigZagMatrix.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\obj\Debug\netcoreapp3.0\ZigZagMatrix.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\obj\Debug\netcoreapp3.0\ZigZagMatrix.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\obj\Debug\netcoreapp3.0\ZigZagMatrix.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\ZigZagMatrix\obj\Debug\netcoreapp3.0\ZigZagMatrix.pdb

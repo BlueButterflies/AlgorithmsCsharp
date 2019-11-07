@@ -1,0 +1,10 @@
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.deps.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.pdb
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\GeneratingCombinations\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.pdb

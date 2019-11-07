@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\bin\Debug\netcoreapp2.1\PathsInLabyrinth.deps.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\bin\Debug\netcoreapp2.1\PathsInLabyrinth.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\bin\Debug\netcoreapp2.1\PathsInLabyrinth.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\bin\Debug\netcoreapp2.1\PathsInLabyrinth.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\bin\Debug\netcoreapp2.1\PathsInLabyrinth.pdb
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\obj\Debug\netcoreapp2.1\PathsInLabyrinth.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\obj\Debug\netcoreapp2.1\PathsInLabyrinth.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\obj\Debug\netcoreapp2.1\PathsInLabyrinth.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\obj\Debug\netcoreapp2.1\PathsInLabyrinth.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\obj\Debug\netcoreapp2.1\PathsInLabyrinth.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\PathsInLabyrinth\PathsInLabyrinth\obj\Debug\netcoreapp2.1\PathsInLabyrinth.pdb

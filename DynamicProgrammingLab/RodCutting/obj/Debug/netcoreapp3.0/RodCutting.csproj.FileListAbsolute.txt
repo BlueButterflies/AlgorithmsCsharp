@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\bin\Debug\netcoreapp3.0\RodCutting.exe
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\bin\Debug\netcoreapp3.0\RodCutting.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\bin\Debug\netcoreapp3.0\RodCutting.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\bin\Debug\netcoreapp3.0\RodCutting.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\bin\Debug\netcoreapp3.0\RodCutting.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\bin\Debug\netcoreapp3.0\RodCutting.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\obj\Debug\netcoreapp3.0\RodCutting.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\obj\Debug\netcoreapp3.0\RodCutting.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\obj\Debug\netcoreapp3.0\RodCutting.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\obj\Debug\netcoreapp3.0\RodCutting.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingLab\RodCutting\obj\Debug\netcoreapp3.0\RodCutting.pdb

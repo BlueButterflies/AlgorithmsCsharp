@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.deps.json
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.pdb
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Exercise Recursion\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.pdb

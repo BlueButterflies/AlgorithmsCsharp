@@ -1,0 +1,10 @@
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.deps.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.pdb
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\RecursiveFactorial\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.pdb

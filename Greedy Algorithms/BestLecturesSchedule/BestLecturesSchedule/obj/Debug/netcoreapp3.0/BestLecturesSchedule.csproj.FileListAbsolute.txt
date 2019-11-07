@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\bin\Debug\netcoreapp3.0\BestLecturesSchedule.exe
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\bin\Debug\netcoreapp3.0\BestLecturesSchedule.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\bin\Debug\netcoreapp3.0\BestLecturesSchedule.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\bin\Debug\netcoreapp3.0\BestLecturesSchedule.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\bin\Debug\netcoreapp3.0\BestLecturesSchedule.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\bin\Debug\netcoreapp3.0\BestLecturesSchedule.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\obj\Debug\netcoreapp3.0\BestLecturesSchedule.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\obj\Debug\netcoreapp3.0\BestLecturesSchedule.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\obj\Debug\netcoreapp3.0\BestLecturesSchedule.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\obj\Debug\netcoreapp3.0\BestLecturesSchedule.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Greedy Algorithms\BestLecturesSchedule\BestLecturesSchedule\obj\Debug\netcoreapp3.0\BestLecturesSchedule.pdb

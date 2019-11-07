@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\bin\Debug\netcoreapp2.2\NChooseKCount.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\bin\Debug\netcoreapp2.2\NChooseKCount.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\bin\Debug\netcoreapp2.2\NChooseKCount.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\bin\Debug\netcoreapp2.2\NChooseKCount.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\bin\Debug\netcoreapp2.2\NChooseKCount.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\obj\Debug\netcoreapp2.2\NChooseKCount.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\obj\Debug\netcoreapp2.2\NChooseKCount.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\obj\Debug\netcoreapp2.2\NChooseKCount.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\obj\Debug\netcoreapp2.2\NChooseKCount.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\obj\Debug\netcoreapp2.2\NChooseKCount.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\NChooseKCount\NChooseKCount\obj\Debug\netcoreapp2.2\NChooseKCount.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\bin\Debug\netcoreapp3.0\Blocks.exe
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\bin\Debug\netcoreapp3.0\Blocks.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\bin\Debug\netcoreapp3.0\Blocks.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\bin\Debug\netcoreapp3.0\Blocks.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\bin\Debug\netcoreapp3.0\Blocks.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\bin\Debug\netcoreapp3.0\Blocks.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\obj\Debug\netcoreapp3.0\Blocks.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\obj\Debug\netcoreapp3.0\Blocks.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\obj\Debug\netcoreapp3.0\Blocks.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\obj\Debug\netcoreapp3.0\Blocks.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\MethodologyOfProblemSolvingLab\Blocks\obj\Debug\netcoreapp3.0\Blocks.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\bin\Debug\netcoreapp3.0\0-1Knapsack.exe
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\bin\Debug\netcoreapp3.0\0-1Knapsack.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\bin\Debug\netcoreapp3.0\0-1Knapsack.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\bin\Debug\netcoreapp3.0\0-1Knapsack.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\bin\Debug\netcoreapp3.0\0-1Knapsack.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\bin\Debug\netcoreapp3.0\0-1Knapsack.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\obj\Debug\netcoreapp3.0\0-1Knapsack.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\obj\Debug\netcoreapp3.0\0-1Knapsack.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\obj\Debug\netcoreapp3.0\0-1Knapsack.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\obj\Debug\netcoreapp3.0\0-1Knapsack.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\DynamicProgrammingPart2Lab\0-1Knapsack\obj\Debug\netcoreapp3.0\0-1Knapsack.pdb

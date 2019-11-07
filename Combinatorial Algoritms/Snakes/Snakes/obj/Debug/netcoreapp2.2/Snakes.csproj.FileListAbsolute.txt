@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\bin\Debug\netcoreapp2.2\Snakes.deps.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\bin\Debug\netcoreapp2.2\Snakes.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\bin\Debug\netcoreapp2.2\Snakes.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\bin\Debug\netcoreapp2.2\Snakes.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\bin\Debug\netcoreapp2.2\Snakes.pdb
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\obj\Debug\netcoreapp2.2\Snakes.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\obj\Debug\netcoreapp2.2\Snakes.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\obj\Debug\netcoreapp2.2\Snakes.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\obj\Debug\netcoreapp2.2\Snakes.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\obj\Debug\netcoreapp2.2\Snakes.dll
+C:\Users\Dsvk2\Desktop\AlgorithmsCsharp\Combinatorial Algoritms\Snakes\Snakes\obj\Debug\netcoreapp2.2\Snakes.pdb

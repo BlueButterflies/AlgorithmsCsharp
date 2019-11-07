@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\bin\Debug\netcoreapp2.1\8QueensPuzzle.deps.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\bin\Debug\netcoreapp2.1\8QueensPuzzle.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\bin\Debug\netcoreapp2.1\8QueensPuzzle.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\bin\Debug\netcoreapp2.1\8QueensPuzzle.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\bin\Debug\netcoreapp2.1\8QueensPuzzle.pdb
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\obj\Debug\netcoreapp2.1\8QueensPuzzle.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\obj\Debug\netcoreapp2.1\8QueensPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\obj\Debug\netcoreapp2.1\8QueensPuzzle.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\obj\Debug\netcoreapp2.1\8QueensPuzzle.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\obj\Debug\netcoreapp2.1\8QueensPuzzle.dll
+C:\Users\Dsvk2\Desktop\Algorithms\Lab Recursion\8QueensPuzzle\8QueensPuzzle\obj\Debug\netcoreapp2.1\8QueensPuzzle.pdb

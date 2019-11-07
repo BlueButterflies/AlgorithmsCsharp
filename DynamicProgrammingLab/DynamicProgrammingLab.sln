@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{0937B4F0-D53D-4845-BF80-30CFF661C2F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{A6BC243D-0FF8-4DBE-ACBA-923B821F942D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveDownRight", "MoveDownRight\MoveDownRight.csproj", "{8B368C16-ADA4-4AB5-9707-2A71659B230D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RodCutting", "RodCutting\RodCutting.csproj", "{56510CB9-5032-4325-AD00-3F496A1F0086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0937B4F0-D53D-4845-BF80-30CFF661C2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0937B4F0-D53D-4845-BF80-30CFF661C2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0937B4F0-D53D-4845-BF80-30CFF661C2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0937B4F0-D53D-4845-BF80-30CFF661C2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BC243D-0FF8-4DBE-ACBA-923B821F942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BC243D-0FF8-4DBE-ACBA-923B821F942D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BC243D-0FF8-4DBE-ACBA-923B821F942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BC243D-0FF8-4DBE-ACBA-923B821F942D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B368C16-ADA4-4AB5-9707-2A71659B230D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B368C16-ADA4-4AB5-9707-2A71659B230D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B368C16-ADA4-4AB5-9707-2A71659B230D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B368C16-ADA4-4AB5-9707-2A71659B230D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56510CB9-5032-4325-AD00-3F496A1F0086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56510CB9-5032-4325-AD00-3F496A1F0086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56510CB9-5032-4325-AD00-3F496A1F0086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56510CB9-5032-4325-AD00-3F496A1F0086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328292C3-AB0B-45E4-9F6E-2796F4015143}
+	EndGlobalSection
+EndGlobal
